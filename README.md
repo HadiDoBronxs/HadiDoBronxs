@@ -26,9 +26,9 @@ As part of my university studies, I am developing a web application for calculat
 
 | **Core** | **Security & Data** | **DevOps & Tools** |
 | :--- | :--- | :--- |
-| ☕ Java | 🛡️ SAP GRC (Basics) | 🐳 Docker |
-| 🐍 Python | 🔍 SoD / ARA Concepts | 🐙 Git / GitLab |
-| ⚛️ React | 🗄️ SQL | 🐞 Jira / Jenkins |
+| ☕ Java | 🛡️ SAP GRC (Access Control) | 🐳 Docker |
+| 🐍 Python | 🔍 Risk Analysis (ARA) & SoD | 🐙 Git / GitLab |
+| ⚛️ React | 🗄️ SQL & Data Modeling | 🐞 Jira / Jenkins |
 
 ---
 
