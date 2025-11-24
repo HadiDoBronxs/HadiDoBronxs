@@ -6,12 +6,19 @@ My goal is to bridge the gap between technical implementation (Code) and secure 
 
 ---
 
-### 🚀 Featured Project: SAP GRC Simulator
-To better understand the logic behind **Segregation of Duties (SoD)** and **Access Risk Analysis (ARA)**, I built a Python-based simulation engine over the weekend.
+### 🚀 Project Spotlight: SAP Security
+To better understand the logic behind **Segregation of Duties (SoD)** and **Access Risk Analysis (ARA)**, I built a Python-based simulation engine.
 
 * **Repo:** [📂 sap-grc-sod-simulator](https://github.com/HadiDoBronxs/sap-grc-sod-simulator)
-* **Tech:** Python, CSV-Processing, Algorithmic Risk Analysis
-* **Status:** Functional PoC with Reporting & Management Summary
+* **Focus:** Algorithmic Risk Analysis & Compliance Reporting
+* **Tech:** Python, CSV-Processing, Data Structures
+
+### 💻 Project Spotlight: Software Engineering
+As part of my university studies, I am developing a web application for calculating vocational training periods in a **Scrum Team**.
+
+* **Repo:** [📂 teilzeitausbildungsrechner](https://github.com/HadiDoBronxs/teilzeitausbildungsrechner)
+* **Focus:** Modern Web Development & CI/CD
+* **Tech:** React, Docker, GitLab CI, Agile Workflows
 
 ---
 
@@ -31,4 +38,4 @@ To better understand the logic behind **Segregation of Duties (SoD)** and **Acce
 
 ---
 
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/hadi-nasrullah/) | [Email](hadi6211@icloud.com)
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/hadi-nasrullah/) | [Email](mailto:hadi6211@icloud.com)
