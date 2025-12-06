@@ -1,40 +1,33 @@
 ### Hi there, I'm Hadi 👋
 
-I am a **Software Engineering Student** at **Hochschule Heilbronn** with a strong background in Java & DevOps (Bosch experience). Currently, I am expanding my focus towards **Enterprise Security**, **SAP GRC**, and **Automated Compliance**.
+I am a **Software Engineering Student** at **Hochschule Heilbronn** with 2 years of enterprise experience in Java & DevOps (Bosch).
 
-My goal is to bridge the gap between technical implementation (Code) and secure business processes (Governance).
+Currently, I am shifting my focus to **Applied AI** and **Software Automation**. I love building tools that leverage **LLMs (Large Language Models)** to solve real-world data problems.
 
 ---
 
-### 🚀 Project Spotlight: SAP Security
-To better understand the logic behind **Segregation of Duties (SoD)** and **Access Risk Analysis (ARA)**, I built a Python-based simulation engine.
+### 🚀 Current Focus: AI Engineering
+I am actively building **RAG (Retrieval Augmented Generation)** systems to bridge the gap between static documents and intelligent chat interfaces.
 
-* **Repo:** [📂 sap-grc-sod-simulator](https://github.com/HadiDoBronxs/sap-grc-sod-simulator)
-* **Focus:** Algorithmic Risk Analysis & Compliance Reporting
-* **Tech:** Python, CSV-Processing, Data Structures
-
-### 💻 Project Spotlight: Software Engineering
-As part of my university studies, I am developing a web application for calculating vocational training periods in a **Scrum Team**.
-
-* **Repo:** [📂 teilzeitausbildungsrechner](https://github.com/HadiDoBronxs/teilzeitausbildungsrechner)
-* **Focus:** Modern Web Development & CI/CD
-* **Tech:** React, Docker, GitLab CI, Agile Workflows
+* **Main Project:** [📂 genai-rag-showcase](https://github.com/HadiDoBronxs/genai-rag-showcase)
+    * *What is it?* An End-to-End RAG application using **LangChain** & **OpenAI**.
+    * *Tech:* Python, Streamlit, Vector Databases (FAISS).
 
 ---
 
 ### 🛠️ Technical Toolbox
 
-| **Core** | **Security & Data** | **DevOps & Tools** |
+| **Core Engineering** | **AI & Data** | **DevOps & Tools** |
 | :--- | :--- | :--- |
-| ☕ Java | 🛡️ SAP GRC (Access Control) | 🐳 Docker |
-| 🐍 Python | 🔍 Risk Analysis (ARA) & SoD | 🐙 Git / GitLab |
-| ⚛️ React | 🗄️ SQL & Data Modeling | 🐞 Jira / Jenkins |
+| 🐍 Python | 🦜 LangChain | 🐳 Docker |
+| ☕ Java (Spring) | 🤖 OpenAI API | 🐙 Git / GitLab |
+| ⚛️ React | 🗄️ SQL | 🐞 Jenkins CI/CD |
 
 ---
 
-### 📚 Latest Certifications
-* **SAP GRC Access Control** (Udemy, Nov 2025) - *Focus on Risk Analysis & User Provisioning*
-* **SQL Bootcamp** (Udemy, Nov 2025) - *Advanced Data Analysis*
+### 👨‍💻 Other Projects
+* **[Python Compliance Engine](https://github.com/HadiDoBronxs/python-compliance-engine)**: Algorithm to detect Segregation of Duties (SoD) conflicts in large datasets.
+* **[Vocational Training Calc](https://github.com/HadiDoBronxs/teilzeitausbildungsrechner)**: React web app developed in an agile Scrum team.
 
 ---
 
