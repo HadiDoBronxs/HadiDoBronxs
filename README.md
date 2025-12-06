@@ -26,7 +26,7 @@ I am actively building **RAG (Retrieval Augmented Generation)** systems to bridg
 ---
 
 ### 👨‍💻 Other Projects
-* **[Python Compliance Engine](https://github.com/HadiDoBronxs/python-compliance-engine)**: Algorithm to detect Segregation of Duties (SoD) conflicts in large datasets.
+* **[Automated Risk Analyzer](https://github.com/HadiDoBronxs/automated-risk-analyzer)**: Algorithm to detect Segregation of Duties (SoD) conflicts in large datasets.
 * **[Vocational Training Calc](https://github.com/HadiDoBronxs/teilzeitausbildungsrechner)**: React web app developed in an agile Scrum team.
 
 ---
